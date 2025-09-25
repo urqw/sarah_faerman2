@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ifindex version="1.0" xmlns="http://babel.ifarchive.org/protocol/iFiction/">
+	<story>
+		<identification>
+			<ifid>141603A6943D2AADB4B267D6096166CB</ifid>
+			<format>urqw</format>
+		</identification>
+		<bibliographic>
+			<title>Приключения Сары Фаерман 2: Тёмная тайна тёмного хлева</title>
+			<author>Юрий Павленко (Goraph)</author>
+			<language>ru</language>
+			<firstpublished>2010-04-04</firstpublished>
+			<genre>Фэнтези</genre>
+			<group>URQ</group>
+			<description>Была уже поздняя ночь, когда в двери фермы у дороги постучали...<br/>Джордж Павленко представляет<br/>Аджента Эрроу в роли Сары Фаерман<br/>Евгений Бычков в роли мерзкого латышского фермера</description>
+			<series>Приключения Сары Фаерман</series>
+			<seriesnumber>2</seriesnumber>
+		</bibliographic>
+		<contacts>
+			<url>https://urqw.github.io/UrqW/#sarah_faerman2</url>
+		</contacts>
+		<colophon>
+			<generator>UrqW Game Template</generator>
+			<originated>2025-09-25</originated>
+		</colophon>
+	</story>
+</ifindex>
