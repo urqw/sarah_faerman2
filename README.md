@@ -4,7 +4,7 @@ Text-based game "The Adventures of Sarah Faerman 2: The Dark Secret of the Dark 
 
 The game is in Russian, developed for FireURQ, and adapted for [UrqW](https://github.com/urqw/UrqW) text-based game engine.
 
-This repository contains the source code and other resources of the game. The game is available for launch in the [UrqW engine online catalog](https://urqw.github.io/UrqW/#sarah_faerman2).
+This repository contains the source code and other resources of the game. The game is available for launch in the [UrqW engine online catalog](https://urqw.github.io/UrqW/?id=sarah_faerman2).
 
 The game was first published on April 4, 2010.
 
